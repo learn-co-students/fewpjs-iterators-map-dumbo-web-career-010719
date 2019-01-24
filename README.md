@@ -114,7 +114,7 @@ the _expressiveness_ has increased: "`rollCall` is the result of `map`-ing
 
 For the rest of of these examples, we'll use the arrow function.
 
-## Demonstrate `map()` with Complex Data Structures
+## Demonstrate `map()` With Complex Data Structures
 
 Let's use the `map()` function on a trickier data structure — a list of robots.
 To start things off, we have an array of robots. Now, let's activate all of
