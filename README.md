@@ -68,9 +68,9 @@ let students = ["harry", "ron", "hermione", "ginevra"];
 let rollCall = students.map(studentRollCall);
 //=> rollCall = ["harry the wizard", "ron the wizard", "hermione the wizard", "ginevra the wizard"];
 ```
-
-With `map()` we're passing a function _as an argument_. Arguments can be
-things like `Number` or `String`, but, in JavaScript, **can also** be
+With `map()`, we have a list of _n_ things and want that list of _n_ things
+to be transformed. Here, we're passing a function _as an argument_. Arguments
+can be things like `Number` or `String`, but, in JavaScript, **can also** be
 **work**. Very few other programming languages allow that!
 
 The iterator function `map()` expects to be _passed a function as an
